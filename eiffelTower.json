@@ -1,0 +1,35 @@
+{
+  "candidates": [
+    {
+      "formatted_address": "Av. Gustave Eiffel, 75007 Paris, França",
+      "geometry": {
+        "location": {
+          "lat": 48.85837009999999,
+          "lng": 2.2944813
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.8599154,
+            "lng": 2.297764350000001
+          },
+          "southwest": {
+            "lat": 48.85614539999999,
+            "lng": 2.29196535
+          }
+        }
+      },
+      "name": "Torre Eiffel",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100339369331653004307\">Asraf Islam</a>"
+          ],
+          "photo_reference": "AXCi2Q4BD3P5awEUePub6BA2uAT-Pu0_e9_qs1aScjAsWD0kzR0ZFnk4RqsTll8iOBDWp8xy-WZXISqrQEhCZg67HaYDS6SGnMs_RX9Ht27FcIcevEDbYeQynkbBoYvFVrKMQWI2_zhTFFga2zX9BCHfP4omr4fe37H5_qNKuMmOVmcFenGF",
+          "width": 3000
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}
